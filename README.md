@@ -38,7 +38,7 @@ I’m deeply committed to learning and contributing to the tech community. From 
 ---
 <h3 align="left">Connect with me:</h3>   
 <p align="left">
-<a href="https://www.linkedin.com/in/swapnilrajsingh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/t-a4a587200/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/potlapati-shashi-kumar-reddy-40a8891b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/t-a4a587200/" height="30" width="40" /></a>
 
 ---
 <h3 align="left"> 🛠️ Key Skills & Tools:</h3>
