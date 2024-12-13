@@ -4,7 +4,7 @@
 
 ---
 
-Hello! I'm **Shashi Kumar**, with **2.8 years** of **overall experience** in **IT**, including **2.8 years** specifically as a **DevOps Engineer**. I specialize in building and maintaining scalable infrastructure, CI/CD pipelines, and automating cloud-native solutions. I'm passionate about leveraging cutting-edge technologies like **Kubernetes**, **AWS**, **Terraform**, **Ansible**, and **Docker** to solve operational challenges.
+Hello! I'm **Shashi Kumar**, with **2.8 years** of **experience** in **IT** as a **DevOps Engineer**. I specialize in building and maintaining scalable infrastructure, CI/CD pipelines, and automating cloud-native solutions. I'm passionate about leveraging cutting-edge technologies like **Kubernetes**, **AWS**, **Terraform**, **Ansible**, and **Docker** to solve operational challenges.
 
 
 
@@ -25,11 +25,11 @@ I’m deeply committed to learning and contributing to the tech community. From 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RajPractiseRepo&label=Profile%20views&color=0e75b6&style=flat" alt="RajPractiseRepo" /> </p>
 
-- 🔭 I’m currently working with **WIPRO**
+- 🔭 I’m currently working with **Temenos**
 
 - 🌱 I’m currently learning **DevSecOps & Cloud Devops**
 
-- 📝 I regularly post content on [Shashi-Posts](https://www.linkedin.com/in/potlapati-shashi-kumar-reddy-40a8891b2\)
+- 📝 I regularly post content on [Shashi-Posts](https://www.linkedin.com/in/potlapati-shashi-kumar-reddy-40a8891b2)
 
 - 💬 Ask me about **Devops**
 
