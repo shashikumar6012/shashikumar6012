@@ -29,7 +29,7 @@ I’m deeply committed to learning and contributing to the tech community. From 
 
 - 🌱 I’m currently learning **DevSecOps & Cloud Devops**
 
-- 📝 I regularly post content on [Swapnil-Posts](https://www.linkedin.com/in/swapnilrajsingh/)
+- 📝 I regularly post content on [Shashi-Posts](https://www.linkedin.com/in/potlapati-shashi-kumar-reddy-40a8891b2\)
 
 - 💬 Ask me about **Devops**
 
