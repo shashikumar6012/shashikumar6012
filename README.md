@@ -21,9 +21,6 @@ I’m deeply committed to learning and contributing to the tech community. From 
 ---
 
 
-<img align="right" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RajPractiseRepo&label=Profile%20views&color=0e75b6&style=flat" alt="RajPractiseRepo" /> </p>
 
 - 🔭 I’m currently working with **Temenos**
 
