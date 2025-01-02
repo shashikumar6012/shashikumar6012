@@ -4,7 +4,7 @@
 
 ---
 
-Hello! I'm **Shashi Kumar**, with **2.8 years** of **experience** in **IT** as a **DevOps Engineer**. I specialize in building and maintaining scalable infrastructure, CI/CD pipelines, and automating cloud-native solutions. I'm passionate about leveraging cutting-edge technologies like **Kubernetes**, **AWS**, **Terraform**, **Ansible**, and **Docker** to solve operational challenges.
+Hello! I'm **Shashi Kumar**, with **3 years** of **experience** in **IT** as a **DevOps Engineer**. I specialize in building and maintaining scalable infrastructure, CI/CD pipelines, and automating cloud-native solutions. I'm passionate about leveraging cutting-edge technologies like **Kubernetes**, **AWS**, **Terraform**, **Ansible**, and **Docker** to solve operational challenges.
 
 
 
